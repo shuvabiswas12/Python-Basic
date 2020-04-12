@@ -1,0 +1,18 @@
+
+Syntax of try catch finally block:->
+
+        try:
+            # Runs first
+            < code >
+
+        except:
+            # Runs if exception occurs in try block
+            < code >
+
+        else:
+            # executes if try block *succeeds*
+            < code >
+
+        finally:
+            # This code *always* executes
+            < code >
